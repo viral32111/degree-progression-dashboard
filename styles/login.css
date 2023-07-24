@@ -1,0 +1,16 @@
+/* Make the input placeholders italic for all browsers */
+::-webkit-input-placeholder {
+	font-style: italic;
+}
+
+:-moz-placeholder {
+	font-style: italic;
+}
+
+:-ms-input-placeholder {
+	font-style: italic;
+}
+
+input:placeholder-shown {
+	font-style: italic;
+}

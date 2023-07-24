@@ -1,0 +1,14 @@
+/* Hide the up/down buttons on numerical inputs (stackoverflow.com/a/23374725) */
+input[ type = "number" ]::-webkit-outer-spin-button, input[ type = "number" ]::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+input[ type = "number" ] {
+	-moz-appearance: textfield;
+}
+
+/* Decrease text size for the form labels */
+label {
+	font-size: 12px;
+}
