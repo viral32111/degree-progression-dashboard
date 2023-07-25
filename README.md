@@ -12,7 +12,9 @@ See the [registration PHP script](/scripts/server/register.php) for creating new
 
 See the [SQL file](/database.sql) for the required database and table structure. It must be imported before-hand, as the scripts do not create it automatically.
 
-**NOTE: This was formerly deployed publicly to https://degreeprogressiondashboard.cf but it has been down for a long while now as I used up all my credit on the web hosting provider.**
+**~~NOTE: This was formerly deployed publicly to https://degreeprogressiondashboard.cf but it has been down for a long while now as I used up all my credit on the web hosting provider.~~**
+
+**As of July 25th 2023, the dashboard is now once again publicly deployed but this time at https://degreeprogressiondashboard.viral32111.cf.**
 
 ![Screenshot](/Screenshot.png)
 
