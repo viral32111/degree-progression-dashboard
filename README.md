@@ -14,7 +14,7 @@ See the [SQL file](/database.sql) for the required database and table structure.
 
 **~~NOTE: This was formerly deployed publicly to https://degreeprogressiondashboard.cf but it has been down for a long while now as I used up all my credit on the web hosting provider.~~**
 
-**As of July 25th 2023, the dashboard is now once again publicly deployed but this time at https://degreeprogressiondashboard.viral32111.cf.**
+**As of July 25th 2023, the dashboard is now once again publicly deployed ~~but this time at https://degreeprogressiondashboard.viral32111.cf.~~ Freenom suspended my `viral32111.cf` domain on September 11th 2023.**
 
 ![Screenshot](/Screenshot.png)
 
